@@ -1,0 +1,407 @@
+    1  pwd
+    2  cd /c
+    3  cd /Users
+    4  cd /agric
+    5  pwd
+    6  ls
+    7  Users/
+    8  cd Users/
+    9  pwd
+   10  cd /c
+   11  cd codes/
+   12  ls
+   13  git init
+   14  git add .
+   15  git commit -m "first commit"
+   16  git remote add origin https://github.com/donaldtdona/ShoppingCart.git
+   17  git push -u origin master
+   18  git config --global user.name "Donald Nzimande"
+   19  ls
+   20  cd vidoes/
+   21  cd Videos/
+   22  ls
+   23  git clean
+   24  git clear
+   25  clear
+   26  ls
+   27  mkdir test
+   28  ls
+   29  cd test
+   30  touch file.txt
+   31  ls
+   32  clear
+   33  git clone https://github.com/donaldtdona/GitTest2.git
+   34  ls
+   35  cd GitTest2
+   36  ls
+   37  clear
+   38  git status
+   39  git log
+   40  git log --patch -1
+   41  vin file.txt
+   42  vim file.txt
+   43  vim
+   44  vin file.txt
+   45  vim file.txt
+   46  git status
+   47  add file.txt
+   48  git add file.txt
+   49  git status
+   50  clear
+   51  cat file.txt
+   52  git status
+   53  git restore --staged file.txt
+   54  git status
+   55  git store file.txt
+   56  cat file.txt
+   57  git restore file.txt
+   58  cat file.txt
+   59  vim file.txt
+   60  cat file.txt
+   61  git status
+   62  git add file.txt
+   63  git status 
+   64  git commit -m "my first commit from local machine"
+   65  git config --global user.email "donaldtdona119@gmail.com"
+   66  git commit -m "my first commit from local machine"
+   67  git status
+   68  git push origin master
+   69  git push origin main
+   70  git push origin main
+   71  git push origin main
+   72   https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls
+   73  git remote -v
+   74  clear
+   75  git status
+   76  cat file.txt
+   77  vim file.txt
+   78  cat file.txt
+   79  git status
+   80  git add file.txt
+   81  git status
+   82  git restore --staged file.txt
+   83  git restore file.txt
+   84  cat file.txt
+   85  git status
+   86  git push origin main
+   87  git push origin main
+   88  clear
+   89  git status
+   90  git fetch oring main
+   91  git fetch origin main
+   92  git log -all
+   93  git status
+   94  git pull origin main
+   95  git status
+   96  git log
+   97  git log --stat
+   98  git log > repository.txt
+   99  git status
+  100  mkdir myfile
+  101  git status
+  102  ls
+  103  git add myfile
+  104  git status
+  105  git log
+  106  git status
+  107  ls
+  108  git status
+  109  git add .
+  110  git status
+  111  git commit -m 'transfered my files into new directory'
+  112  git status
+  113  cd myfile
+  114  ls
+  115  git log
+  116  ls
+  117  cat README.md
+  118  vim file.txt
+  119  git status
+  120  git add file.txt
+  121  git status
+  122  git commit -m 'edited my last line in file.txt'
+  123  git status
+  124  git push origin main
+  125  git status
+  126  git clone https://github.com/donaldtdona/ConcurrencyAssignment2023.git
+  127  git status
+  128  javac test.java
+  129  java test.java
+  130  mingw-get
+  131  mingw-get install mingw32-make
+  132  mingw32-make
+  133  mingw32-make
+  134  make
+  135  git status
+  136  git status
+  137  git add .
+  138  git status
+  139  git commit -m 'my first commit: all files added
+  140  "
+  141  '
+  142  git status
+  143  git push origin main
+  144  git status
+  145  git status
+  146  git add Makefile
+  147  git status
+  148  git commit -m 'makefile added, still need to be updated'
+  149  git status
+  150  git status
+  151  git add Makefile
+  152  git status
+  153  make
+  154  Make
+  155  Makefile
+  156  clear
+  157  mingw-get install mingw32-make
+  158  mingw-get
+  159  make
+  160  make
+  161  make
+  162  mingw-get install mingw32-make
+  163  make
+  164  cd aaa
+  165  make
+  166  make
+  167  make
+  168  git status
+  169  git add src/CluGrid.java
+  170  git add src/ClubGrid.java
+  171  git commit -m "fixed ClubGrid from Thread errors" 
+  172  git add .
+  173  git status
+  174  git commit -m "class file removed from the src directory"
+  175  git
+  176  git status
+  177  git status
+  178  git restore .
+  179  git status
+  180  git status
+  181  git add .
+  182  git status
+  183  git commit -m "limited number of peoples in the club is resolved"
+  184  git status
+  185  clear
+  186  git log
+  187  git status
+  188  git add .
+  189  git commit -m 'modified clubgrid class'
+  190  git status
+  191  git push orign main
+  192  git push origin main
+  193  git status
+  194  git add .
+  195  git commit -m 'readme file updated'
+  196  git push origin main
+  197  git status
+  198  git status
+  199  git git status
+  200  git status
+  201  git status
+  202  git add .
+  203  git commint - 'report added'
+  204  git commit -m 'report added'
+  205  git push origin main
+  206  git pull origin main
+  207  git status
+  208  git push origin main
+  209  git status
+  210  git log
+  211  git log --stat
+  212  git status
+  213  git fetch orign main
+  214  git status
+  215  git add .
+  216  git status
+  217  git commit - m 'classed added to bin'
+  218  git commit -m 'classed added to bin'
+  219  git status
+  220  git push origin main
+  221  git pull origin main
+  222  git status
+  223  git push origin main
+  224  git status
+  225  git log > 
+  226  gi log > GIT_usage_log.txt
+  227  git log > GIT_usage_log.txt
+  228  git status
+  229  git add .
+  230  git commit -m 'git usage log file created with all the git commits'
+  231  git push origin main
+  232  git status
+  233  git status
+  234  git commit
+  235  git log
+  236  node helloworld.js
+  237  ls
+  238  cd Git
+  239  git clone https://github.com/donaldtdona/testing-Git.git
+  240  ls
+  241  git testing-Git
+  242  cd testing-Git
+  243  ls
+  244  git status
+  245  git status
+  246  git add test.txt
+  247  git add test
+  248  ls
+  249  ls
+  250  git add test.txt
+  251  git status
+  252  git commit -m 'first commit' test.txt
+  253  git status
+  254  git push -u origin main
+  255  node
+  256  node.js
+  257  node helloworld
+  258  node task1
+  259  node task1
+  260  node task2
+  261  node task2
+  262  node task2
+  263  node task2
+  264  node task2
+  265  node task3
+  266  node task3
+  267  node task3
+  268  node task4
+  269  node task4
+  270  node task4
+  271  clear
+  272  node task5
+  273  node task5
+  274  node task5
+  275  node task5
+  276  node task5
+  277  node task5
+  278  node task6
+  279  node task6
+  280  node task6
+  281  node task7
+  282  node task7
+  283  node task7
+  284  node task8
+  285  node task8
+  286  node task8
+  287  node task8
+  288  node task8
+  289  node task8
+  290  node task9
+  291  node task9
+  292  clear
+  293  node task9
+  294  node task9
+  295  node task9
+  296  node task9
+  297  node task9
+  298  node task10
+  299  node task10
+  300  node task10
+  301  clear
+  302  node task10
+  303  node task10
+  304  node task10
+  305  node task10
+  306  node task10
+  307  node task10
+  308  node task10
+  309  clear
+  310  node task10
+  311  node task10
+  312  node task10
+  313  clear
+  314  node task10
+  315  node task10
+  316  node task10
+  317  node task10
+  318  node task10
+  319  node task10
+  320  node task10
+  321  node task10
+  322  node task10
+  323  node task10
+  324  node task10
+  325  node task10
+  326  node task10
+  327  node task10
+  328  node task10
+  329  node task10
+  330  node task10
+  331  node task10
+  332  node task10
+  333  node task10
+  334  node task10
+  335  node task10
+  336  node task10
+  337  node task10
+  338  node task10
+  339  node task10
+  340  clear
+  341  ls
+  342  python new 1
+  343  python --version
+  344  python
+  345  python -
+  346  python -version
+  347  node
+  348  python3
+  349  java
+  350  cd git-basic-exercises
+  351  ls -a
+  352  git init
+  353  ls -a
+  354  git status
+  355  touch README.md
+  356  ls -a
+  357  git status
+  358  git log
+  359  git add README.md
+  360  git status
+  361  git log
+  362  git rm --cached README.md
+  363  git stutas
+  364  git status
+  365  git add .
+  366  git status
+  367  git commit -m "initial commit"
+  368  git log
+  369  none README.md
+  370  nano README.md
+  371  cat README.md
+  372  git status
+  373  git commit -m "second commit"
+  374  git status
+  375  git add .
+  376  ls
+  377  git status
+  378  git commit -m "second commit"
+  379  cat README.md
+  380  nano README.md
+  381  git status
+  382  git add .
+  383  git commit -m "third commit"
+  384  cat README.md
+  385  git log
+  386  git checkout aa677802eddc6be819872d35f70b353ac0461899
+  387  cat README.md
+  388  git checkout main
+  389  git checkout master
+  390  cat README.md
+  391  git branch
+  392  git branch milkshake-flavours
+  393  git branch
+  394  git checkout milkshake-flavours
+  395  git branch
+  396  nano milkshakes.md
+  397  git status
+  398  git add .
+  399  git commit -m "added initial flavours"
+  400  git log
+  401  git branch
+  402  git checkout master
+  403  git log
+  404  git branch history
+  405  git branch
+  406  git checkout history
+  407  history > history.txt
