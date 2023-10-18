@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 my first line
 second line
 third line
@@ -9,6 +8,4 @@ from here i'm making some more changes to my file for my third commit
 making my arbitrary changes from this line.
 7th line
 8th line
-=======
 booya
->>>>>>> history
